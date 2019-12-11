@@ -64,3 +64,113 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+.header {
+	width: 880px;
+	margin: 74px;
+}
+
+h1 {
+	display: inline-block;
+	font-size: 65px;
+	text-align: center;
+	padding-right: 130px;
+	vertical-align: inherit;
+}
+
+.logo {
+	vertical-align: middle;
+	display: inline-block;
+}
+
+img {
+	vertical-align: middle;
+}
+
+.Title{
+	text-align: center;
+	vertical-align: middle;
+	margin: 50px 0 5px 0;
+
+}
+
+.emptyspace1 {
+	padding: 6px;
+}
+
+.button {
+	display: inline-block;
+	border: solid 1px black;
+    color: black;
+	margin: 0 0 50px 116px;
+	padding: 5px 30px;
+}
+
+nav {
+	display: inline-block;
+}
+a {
+	color: lightgray;
+	text-decoration: none;
+	margin-right: 60px;
+}
+
+
+.topfeature {
+	display: inline-block;
+	margin-bottom: 40px;
+}
+
+.features {
+	display: inline-block;
+	width: 48%;
+	margin-top: 20px;
+}
+
+.about {
+	display: inline-block;
+	width: 48%;	
+	margin-left: 3%;
+	margin-top: 20px;
+}
+
+.img2
+{
+	width: 100%;
+}
+
+.services {
+	display: inline-block;
+	width: 33%;
+	margin-top: 30px;
+}
+
+.product {
+	display: inline-block;
+	width: 33%;
+	margin-top: 30px;
+}
+
+.vision {
+display: inline-block;
+width: 33%;
+margin-top: 30px;
+}
+
+.contact {
+	margin: 40px 0;
+}
+
+footer {
+	text-align: center;
+	padding-bottom: 40px;
+    margin: 40px 0;
+} 
+
+.emptyspace2 {
+	padding: 0;
+}
+
+.emptyspace3 {
+	padding: 10px;
+}
